@@ -1,4 +1,4 @@
-# Telegram Video Compressor Bot
+# Telegram Video Compressor Bot [![using with dotenv-vault](https://badge.dotenv.org/using.svg?r=1)](https://www.dotenv.org/r/github.com/motdotla/dotenv?r=1)
 
 A simple Telegram bot that provides video compression functionality using the HandBrake CLI.
 
